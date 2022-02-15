@@ -6,4 +6,4 @@
 *.ear
 /target
 /test-output
-.settings/
+/.settings
